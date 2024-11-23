@@ -189,6 +189,8 @@ body {
 
 .hero-text .features li {
   margin-bottom: 10px;
+  display: flex;
+  align-items: center;
 }
 .hero-text .features li strong {
   transition: background-color 0.3s;
