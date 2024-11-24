@@ -220,7 +220,7 @@ body {
 }
 @media (max-width: 1200px) {
   .hero .features {
-    width: 50%;
+    width: 70%;
   }
 }
 @media (max-width: 1024px) {
